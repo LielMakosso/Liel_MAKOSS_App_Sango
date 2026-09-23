@@ -1,3 +1,3 @@
 # Documentation - Sango
 
-- [Rapport Technique (PDF)](./API_whatsapp_Mobile_Liel_MAKOSSO.pdf)
+**[Télécharger le Rapport Technique (PDF)](./Sango_Rapport_Technique.pdf)**
